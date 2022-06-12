@@ -1,7 +1,7 @@
 An archive of the Discord server of Chabot's Computer Hardware Club from 2020 - 2022.
 
 # Table of Contents
-- [Here](/)
+- [Here]()
 
 - [General Info](https://github.com/Atypics3/chc/tree/general-info)
 
